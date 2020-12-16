@@ -1,5 +1,5 @@
 # IBMTestRepo
 
-##Editing a file 
+## Editing a file 
 
 This is a Mark down.
